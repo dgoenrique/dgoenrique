@@ -1,11 +1,12 @@
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Diego Enrique**. I am a Computer Science undergraduate 
-student at Universidade Federal de Goiás (<a href="https://www.ufg.br/">UFG</a>) in Goiânia, Brazil.
-I enjoy learning more about management and data, and I believe 
-that data-driven applications can bring greater ease to the
-lives of people and businesses.
+My name is **Diego Enrique**. I am an undergraduate student in Computer Science
+at the Federal University of Goiás (<a href="https://www.ufg.br/">UFG</a>), in Goiânia, Brazil.
+Currently, I am learning more about management, data analysis, and data science. 
+
+Feel free to contact me 😄.
+
 
 #### Other things about me:
 
