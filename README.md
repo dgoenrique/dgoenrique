@@ -18,3 +18,9 @@ Feel free to contact me 😄.
 
 - 📫 You can reach me by email at diego.enrique.silvalima@gmail.com.
 
+#### My profiles:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dgoenrique)
+[<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/dgoenrique)
+
+
